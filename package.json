@@ -1,6 +1,6 @@
 {
   "name": "grunt-inline-template",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Andy Joslin <andytjoslin@gmail.com>",
   "description": "A grunt plugin. Uses inline-template to put html templates in your javascript.",
   "scripts": {
