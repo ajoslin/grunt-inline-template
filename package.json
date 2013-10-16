@@ -1,0 +1,30 @@
+{
+  "name": "grunt-inline-template",
+  "version": "0.0.0",
+  "author": "Andy Joslin <andytjoslin@gmail.com>",
+  "description": "A grunt plugin. Uses inline-template to put html templates in your javascript.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ajoslin/grunt-inline-template.git"
+  },
+  "keywords": [
+    "grunt-plugin"
+  ],
+  "peerDependencies": {
+    "grunt": "~0.4.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-npm": "~0.0.2",
+    "grunt-bump": "~0.0.7",
+    "grunt-auto-release": "~0.0.2"
+  },
+  "dependencies": {
+    "inline-template": "0.0.1"
+  },
+  "contributors": []
+}
